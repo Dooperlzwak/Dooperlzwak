@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dooperlzwak
 - 👀 I’m interested in Game and Web Development
-- 🌱 I’m currently learning C++ and Bootstrap
+- 🌱 I’m currently learning C++ and Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Dooperlzwak@gmail.com
 - 😄 Pronouns: He/Him
